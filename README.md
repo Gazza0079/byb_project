@@ -1,7 +1,7 @@
 # HelloWorld Project
 
 ## 📖 About
-The **HelloWorld** project is a simple program designed as an introduction to programming. It outputs the phrase `"Hello, World!"`, which is commonly used as the first step in learning a new programming language. This project demonstrates basic syntax and output in python.
+The **HelloWorld** project is a simple program designed as an introduction to programming. It outputs the phrase `"Hello World"`, which is commonly used as the first step in learning a new programming language. This project demonstrates basic syntax and output in python.
 
 ---
 
@@ -23,4 +23,4 @@ This project includes "Hello, World!" implementations in the following programmi
 2. Navigate to the folder containing the file `hello_world.py`.
 3. Run the program with the command:
    ```bash
-   python hello_world.py
+   python helloworld.py
