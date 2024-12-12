@@ -1,12 +1,12 @@
 # HelloWorld Project
 
 ## 📖 About
-The **HelloWorld** project is a simple program designed as an introduction to programming. It outputs the phrase `"Git is Awesome"`, which is commonly used as the first step in learning a new programming language. This project demonstrates basic syntax and output in python.
+The **HelloWorld** project is a simple program designed as an introduction to programming. It outputs the phrase `"Git is Awesome!"`, which is commonly used as the first step in learning a new programming language. This project demonstrates basic syntax and output in python.
 
 ---
 
 ## 🚀 Features
-- Prints the phrase `"Git is Awesome"` to the console.
+- Prints the phrase `"Git is Awesome!"` to the console.
 - Showcases the fundamental structure of a program in pyphon.
 
 ---
